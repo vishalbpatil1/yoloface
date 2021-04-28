@@ -4,7 +4,7 @@
 ### This is simpleste way to detect face:
 ```bash
 You only look once (YOLO) is a state-of-the-art, real-time object detection system. It is based on Deep Learning.
-We apply a single neural network to the full image. This network divides the image into regions and predicts bounding boxes and probabilities for each region. These bounding boxes are weighted by the predicted probabilities.
+Face detection is one of the important tasks of object detection. We apply a single neural network to the full image.This project focuses on improving the accuracy of detecting the face using the model of deep learning network (YOLO).This network divides the image into regions and predicts bounding boxes and probabilities for each region. These bounding boxes are weighted by the predicted probabilities.
 
 ```
 
