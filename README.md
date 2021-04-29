@@ -1,5 +1,6 @@
 # yoloface
 
+[Colab](https://colab.research.google.com/drive/1VVrLoOpTvtCiS3qj_Re-7b6Da9SotWyH?usp=sharing)
 
 ### This is simpleste way to detect face:
 ```bash
