@@ -99,12 +99,9 @@ cv2.destroyAllWindows()
 #press v (exits)
 ```
 
-# Input Image
-![input](https://github.com/vishalbpatil1/yoloface/blob/main/br17.jpg)
 
 # Output Image
-![output](https://github.com/vishalbpatil1/yoloface/blob/main/ff4.png)
-
+![output](https://github.com/vishalbpatil1/yoloface/blob/main/result/result1.png)
 
 The YOLOv3 (You Only Look Once) is a state-of-the-art, real-time object detection algorithm. The published model recognizes 80 different objects in images and videos. For more details, you can refer to this paper.
 [Reference link ](https://pjreddie.com/darknet/yolo/)
